@@ -4,9 +4,24 @@
     padding: 0;
 }
 
+h1 {
+    font-family: open sans; 
+}
+
+h2 {
+    font-family: open sans;
+}
+
+strong {
+    font-family: oswald;
+}
+
 li {
-    display: inline;
+    display: inline-block;
     font-size: 10px;
+    background-color: rgb(144	221	240);
+    border-radius: 1rem;
+    padding: 2px;
 }
 
 .dog-pics {
