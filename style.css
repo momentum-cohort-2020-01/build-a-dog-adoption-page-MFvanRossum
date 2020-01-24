@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+    font-size: 10px;
+}
+
+.dog-pics {
+    max-width: 200px;
+}
+
+.dog {
+    display: inline-block;
+    max-width: 200px;
+}
