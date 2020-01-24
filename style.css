@@ -21,3 +21,21 @@ li {
 .line1 {
     clear: both;
 }
+
+.foot {
+    background: linear-gradient(rgba(122, 120, 172, 0.8),rgba(122, 120, 172, 0.8)), no repeat center/cover url('starter_files/images/donate.jpg');
+    max-width: 200px;
+    display: inline-block;
+}
+
+.foot2 {
+    background: linear-gradient(rgba(122, 120, 172, 0.8),rgba(122, 120, 172, 0.8)), no repeat center/cover url('starter_files/images/volunteer.jpg');
+    max-width: 200px;
+    display: inline-block;
+}
+
+.foot3 {
+    background: linear-gradient(rgba(122, 120, 172, 0.8),rgba(122, 120, 172, 0.8)), no repeat center/cover url('starter_files/images/location.pngs');
+    max-width: 200px;
+    display: inline-block;  
+}
