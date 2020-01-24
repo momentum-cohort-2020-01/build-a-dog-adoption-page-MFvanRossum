@@ -61,7 +61,6 @@ img {
 footer {
     display:flex;
     flex-wrap: wrap;
-    margin: 0.5rem;
     justify-content: space-evenly;
 }
 
@@ -74,11 +73,6 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
-}
-
-.center {
-    text-align: center;
-    padding: 50% 50%;
 }
 
 .foot1 {
