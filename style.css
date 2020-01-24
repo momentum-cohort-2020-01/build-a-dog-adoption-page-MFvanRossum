@@ -4,16 +4,24 @@
     padding: 0;
 }
 
+header {
+    padding: 20px;
+    background-color: rgb(8	61	119	);
+    color: white;
+    border-bottom: 2px solid rgb(144	221	240	);
+}
+
 h1 {
-    font-family: open sans; 
+    font-family: "open sans"; 
 }
 
 h2 {
-    font-family: open sans;
+    font-family: "open sans";
+    margin: 1rem;
 }
 
 strong {
-    font-family: oswald;
+    font-family: "oswald";
 }
 
 li {
@@ -21,20 +29,32 @@ li {
     font-size: 10px;
     background-color: rgb(144	221	240);
     border-radius: 1rem;
-    padding: 2px;
+    padding: 2px 3px;
+}
+
+img {
+    max-width: 100%;
+}
+
+.top-text {
+    font-family: "open sans";
+    margin: 0.5rem;
 }
 
 .dog-pics {
-    max-width: 200px;
+    max-width: 300px;
 }
 
 .dog {
     display: inline-block;
-    max-width: 200px;
+    max-width: 300px;
+    margin: 0.1rem;
 }
 
-.line1 {
+.line {
     clear: both;
+    display: flex;
+    margin: 0.5rem;
 }
 
 .foot {
